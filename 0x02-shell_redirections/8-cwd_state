@@ -1,2 +1,3 @@
-#!/bin/bash
-ls -ls > ls_cwd_content
+#!/bin/bash 
+touch
+ls -la > ls_cwd_content
